@@ -1,5 +1,7 @@
-import requests
-import pandas
-import numpy
+import requests as rq
+import pandas as pd
+import numpy as np 
+
+
 
 
